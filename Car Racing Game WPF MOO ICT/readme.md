@@ -1,0 +1,2 @@
+﻿Dette prosjektet er basert på denne koden: https://github.com/mooict/WPF-Car-Racing-game-with-power-ups
+Og denne tutorialen: https://www.mooict.com/wpf-c-tutorial-create-a-simple-racing-game-in-visual-studio/
