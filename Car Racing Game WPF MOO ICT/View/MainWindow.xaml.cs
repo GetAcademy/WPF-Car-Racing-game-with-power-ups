@@ -1,22 +1,17 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Data.SqlTypes;
 using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using System.Windows;
 using System.Windows.Controls;
-using System.Windows.Data;
-using System.Windows.Documents;
 using System.Windows.Input;
 using System.Windows.Media;
 using System.Windows.Media.Imaging;
-using System.Windows.Navigation;
 using System.Windows.Shapes;
+using System.Windows.Threading;
 
-using System.Windows.Threading; // import the threading namespace first, this way we can use the dispatcher time inside of the c# script
+// import the threading namespace first, this way we can use the dispatcher time inside of the c# script
 
-namespace Car_Racing_Game_WPF_MOO_ICT
+namespace Car_Racing_Game_WPF_MOO_ICT.View
 {
     /// <summary>
     /// Interaction logic for MainWindow.xaml
